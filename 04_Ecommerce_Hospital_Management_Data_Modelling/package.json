@@ -1,0 +1,15 @@
+{
+  "name": "04_ecommerce_hospital_management_data_modelling",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Suraj Gupta",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
