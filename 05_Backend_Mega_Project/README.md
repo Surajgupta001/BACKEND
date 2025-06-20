@@ -1,6 +1,19 @@
 # Backend Mega Project
 
-This project is a comprehensive backend application built with Node.js, Express, and MongoDB. It serves as a feature-rich platform demonstrating various backend concepts including user authentication, video management, social interactions (tweets, comments, likes), playlist creation, and subscription handling.
+> A feature-rich backend application demonstrating user authentication, video management, social interactions, playlist creation, and more, built with Node.js, Express, and MongoDB.
+
+## Topics Covered
+
+- User authentication (JWT, password hashing)
+- Video upload and management
+- Social features: tweets, comments, likes
+- Playlist creation and management
+- Subscriptions and channel management
+- File uploads with Cloudinary
+- Modular code structure and best practices
+- Centralized error handling
+- Environment variable management
+- RESTful API design
 
 ## About This Project
 
